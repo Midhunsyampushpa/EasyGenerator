@@ -1,0 +1,32 @@
+{
+    "dropDownFeature":{
+        "validationText":"Dropdown",
+        "firstOption":"Option1",
+        "secondOption":"Option2",
+        "thirdOption":"Option3"
+    },
+    "uploadImageFeature":{
+        "imageName":"TestImage.png",
+        "validationText":"Upload your image here"
+    },
+    "openNewTabFeature":{
+        "validationText":"Open new tab",
+        "newTabUrl":"https://www.easygenerator.com/en/"
+    },
+    "toggleInputFeature":{
+        "validationText":"Show/hide the input"
+    },
+    "mouseHoverFeature":{
+        "validationText":"Hover"
+    },
+    "egiFrameFeature":{
+        "validationText":"iFrame"
+
+    },
+    "invokeAlertFeature":{
+        "validationText":"Invoke an alert/confirmation modal",
+        "alertTextFileName":"alert-text.txt",
+        "alertTextFileValidation":"Hello from Easygenerator",
+        "alertValidation":"Hello Hello from Easygenerator, share this practice page and share your knowledge"
+    }
+}
